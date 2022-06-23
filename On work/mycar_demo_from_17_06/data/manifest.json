@@ -1,5 +1,0 @@
-["cam/image_array", "user/angle", "user/throttle", "user/mode", "perf/cpu", "perf/mem", "perf/freq"]
-["image_array", "float", "float", "str", "float", "float", "float"]
-{}
-{"created_at": 1646811572.322381, "sessions": {"all_full_ids": ["22-03-09_0", "22-03-09_1", "22-03-09_2", "22-03-09_3"], "last_id": 3, "last_full_id": "22-03-09_3"}}
-{"paths": ["catalog_0.catalog", "catalog_1.catalog", "catalog_2.catalog", "catalog_3.catalog", "catalog_4.catalog", "catalog_5.catalog", "catalog_6.catalog", "catalog_7.catalog", "catalog_8.catalog", "catalog_9.catalog", "catalog_10.catalog", "catalog_11.catalog", "catalog_12.catalog", "catalog_13.catalog", "catalog_14.catalog", "catalog_15.catalog", "catalog_16.catalog", "catalog_17.catalog", "catalog_18.catalog", "catalog_19.catalog", "catalog_20.catalog", "catalog_21.catalog", "catalog_22.catalog", "catalog_23.catalog", "catalog_24.catalog", "catalog_25.catalog", "catalog_26.catalog", "catalog_27.catalog", "catalog_28.catalog", "catalog_29.catalog", "catalog_30.catalog", "catalog_31.catalog"], "current_index": 31278, "max_len": 1000, "deleted_indexes": []}
